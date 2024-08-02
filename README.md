@@ -76,6 +76,7 @@ class MyComponent extends Component {
     //   selection: {
     //     startDate: [native Date Object],
     //     endDate: [native Date Object],
+    //     label: [string] // selected range label
     //   }
     // }
   }
